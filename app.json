@@ -1,6 +1,6 @@
 {
-  "name": "chatterbot-live-example",
-  "description": "A live example for chatterbot",
+  "name": "chatterbot",
+  "description": "chatterbot",
   "scripts": {
   },
   "env": {
