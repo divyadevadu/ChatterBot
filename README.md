@@ -63,5 +63,5 @@ Include your address at the ALLOWED_HOSTS directives in settings.py - Just the d
 
 for example
 ``` Python
-ALLOWED_HOSTS = ['127.0.0.1', 'chatterbot-live-example.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 ```
